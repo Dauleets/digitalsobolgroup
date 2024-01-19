@@ -5,6 +5,11 @@ class MyProjectsScreenWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return const Column(
+      crossAxisAlignment: CrossAxisAlignment.center,
+      children: [
+        SizedBox(height: 30),
+      ],
+    );
   }
 }

@@ -104,7 +104,7 @@ class _RegistrationSecondState extends State<RegistrationSecond> {
                       Navigator.push(
                         context,
                         MaterialPageRoute(
-                            builder: (context) => HomePageWidget()),
+                            builder: (context) => const HomePageWidget()),
                       );
                     },
                   ),
