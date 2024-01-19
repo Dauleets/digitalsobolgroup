@@ -1,5 +1,5 @@
-import 'package:aezakmi/common/types/failures.dart';
-import 'package:aezakmi/feature/main/profile/data/datasoruce/names/avatar_datasource.dart';
+import 'package:digitalsobolgroup/common/types/failures.dart';
+import 'package:digitalsobolgroup/feature/main/profile/data/datasoruce/names/avatar_datasource.dart';
 import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

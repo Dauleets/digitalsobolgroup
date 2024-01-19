@@ -1,7 +1,7 @@
-import 'package:aezakmi/common/styles/constants_theme/size.dart';
-import 'package:aezakmi/common/utils/show_custom_snack_bar.dart';
-import 'package:aezakmi/feature/main/profile/ui/bloc/names_bloc/names_bloc.dart';
-import 'package:aezakmi/feature/main/profile/ui/widgets/names_field.dart';
+import 'package:digitalsobolgroup/common/styles/constants_theme/size.dart';
+import 'package:digitalsobolgroup/common/utils/show_custom_snack_bar.dart';
+import 'package:digitalsobolgroup/feature/main/profile/ui/bloc/names_bloc/names_bloc.dart';
+import 'package:digitalsobolgroup/feature/main/profile/ui/widgets/names_field.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

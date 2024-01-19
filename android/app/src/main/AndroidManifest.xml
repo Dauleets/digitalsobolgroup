@@ -4,7 +4,7 @@
         <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
         <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
     <application
-        android:label="aezakmi"
+        android:label="digitalsobolgroup"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

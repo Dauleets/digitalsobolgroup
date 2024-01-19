@@ -1,8 +1,8 @@
 import 'package:equatable/equatable.dart';
 
-import 'package:aezakmi/common/types/failures.dart';
-import 'package:aezakmi/feature/main/profile/domain/usecase/avatar_usecase.dart';
-import 'package:aezakmi/injection.dart';
+import 'package:digitalsobolgroup/common/types/failures.dart';
+import 'package:digitalsobolgroup/feature/main/profile/domain/usecase/avatar_usecase.dart';
+import 'package:digitalsobolgroup/injection.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 part 'photo_event.dart';

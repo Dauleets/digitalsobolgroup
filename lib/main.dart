@@ -1,6 +1,6 @@
-import 'package:aezakmi/feature/main/profile/ui/bloc/names_bloc/names_bloc.dart';
-import 'package:aezakmi/feature/main/profile/ui/bloc/photo_bloc/photo_bloc.dart';
-import 'package:aezakmi/feature/registration/ui/pages/registration_first/registration_first.dart';
+import 'package:digitalsobolgroup/feature/main/profile/ui/bloc/names_bloc/names_bloc.dart';
+import 'package:digitalsobolgroup/feature/main/profile/ui/bloc/photo_bloc/photo_bloc.dart';
+import 'package:digitalsobolgroup/feature/registration/ui/pages/registration_first/registration_first.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
         BlocProvider(create: (context) => di.sl<NamesProfileBloc>()),
       ],
       child: MaterialApp(
-        title: 'Aezakmi Task',
+        title: 'Digital Sobol Group',
         theme: Styles.themeData(context),
         debugShowCheckedModeBanner: false,
         home: const RegistrationFirst(),

@@ -1,9 +1,9 @@
 import 'dart:async';
-import 'package:aezakmi/common/styles/constants_theme/colors.dart';
-import 'package:aezakmi/common/styles/constants_theme/size.dart';
-import 'package:aezakmi/feature/main/home/ui/home.dart';
-import 'package:aezakmi/feature/registration/ui/widgets/screen_number.dart';
-import 'package:aezakmi/feature/registration/ui/widgets/titles_resigtration.dart';
+import 'package:digitalsobolgroup/common/styles/constants_theme/colors.dart';
+import 'package:digitalsobolgroup/common/styles/constants_theme/size.dart';
+import 'package:digitalsobolgroup/feature/main/home/ui/home.dart';
+import 'package:digitalsobolgroup/feature/registration/ui/widgets/screen_number.dart';
+import 'package:digitalsobolgroup/feature/registration/ui/widgets/titles_resigtration.dart';
 import 'package:flutter/material.dart';
 import 'package:mask_text_input_formatter/mask_text_input_formatter.dart';
 import 'package:pin_code_fields/pin_code_fields.dart';

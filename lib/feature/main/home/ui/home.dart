@@ -1,5 +1,5 @@
-import 'package:aezakmi/feature/main/home/ui/my_projects.dart';
-import 'package:aezakmi/feature/main/profile/ui/pages/profile_screen.dart';
+import 'package:digitalsobolgroup/feature/main/home/ui/my_projects.dart';
+import 'package:digitalsobolgroup/feature/main/profile/ui/pages/profile_screen.dart';
 import 'package:flutter/material.dart';
 
 class HomePageWidget extends StatefulWidget {

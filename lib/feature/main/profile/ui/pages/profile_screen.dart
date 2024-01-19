@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:aezakmi/common/utils/show_custom_snack_bar.dart';
-import 'package:aezakmi/feature/main/profile/ui/bloc/photo_bloc/photo_bloc.dart';
-import 'package:aezakmi/feature/main/profile/ui/pages/names_fields_widget.dart';
+import 'package:digitalsobolgroup/common/utils/show_custom_snack_bar.dart';
+import 'package:digitalsobolgroup/feature/main/profile/ui/bloc/photo_bloc/photo_bloc.dart';
+import 'package:digitalsobolgroup/feature/main/profile/ui/pages/names_fields_widget.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

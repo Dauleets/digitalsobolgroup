@@ -1,11 +1,11 @@
-import 'package:aezakmi/common/components/main_button.dart';
-import 'package:aezakmi/common/components/phone_field_widget.dart';
-import 'package:aezakmi/common/styles/constants_theme/colors.dart';
-import 'package:aezakmi/common/styles/constants_theme/size.dart';
-import 'package:aezakmi/common/utils/show_custom_snack_bar.dart';
-import 'package:aezakmi/feature/registration/ui/pages/registration_second/registration_second.dart';
-import 'package:aezakmi/feature/registration/ui/widgets/screen_number.dart';
-import 'package:aezakmi/feature/registration/ui/widgets/titles_resigtration.dart';
+import 'package:digitalsobolgroup/common/components/main_button.dart';
+import 'package:digitalsobolgroup/common/components/phone_field_widget.dart';
+import 'package:digitalsobolgroup/common/styles/constants_theme/colors.dart';
+import 'package:digitalsobolgroup/common/styles/constants_theme/size.dart';
+import 'package:digitalsobolgroup/common/utils/show_custom_snack_bar.dart';
+import 'package:digitalsobolgroup/feature/registration/ui/pages/registration_second/registration_second.dart';
+import 'package:digitalsobolgroup/feature/registration/ui/widgets/screen_number.dart';
+import 'package:digitalsobolgroup/feature/registration/ui/widgets/titles_resigtration.dart';
 import 'package:flutter/material.dart';
 
 class RegistrationFirst extends StatefulWidget {

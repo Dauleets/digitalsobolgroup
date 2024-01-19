@@ -1,8 +1,8 @@
-import 'package:aezakmi/common/types/failures.dart';
-import 'package:aezakmi/feature/main/profile/data/datasoruce/names/avatar_datasource.dart';
-import 'package:aezakmi/feature/main/profile/data/datasoruce/photo/avatar_datasource.dart';
-import 'package:aezakmi/feature/main/profile/domain/repositories/avatar_repostoiry.dart';
-import 'package:aezakmi/injection.dart';
+import 'package:digitalsobolgroup/common/types/failures.dart';
+import 'package:digitalsobolgroup/feature/main/profile/data/datasoruce/names/avatar_datasource.dart';
+import 'package:digitalsobolgroup/feature/main/profile/data/datasoruce/photo/avatar_datasource.dart';
+import 'package:digitalsobolgroup/feature/main/profile/domain/repositories/avatar_repostoiry.dart';
+import 'package:digitalsobolgroup/injection.dart';
 import 'package:dartz/dartz.dart';
 
 class ProfileRepositoryImpl implements ProfileRepository {

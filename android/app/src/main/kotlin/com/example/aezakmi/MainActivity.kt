@@ -1,4 +1,4 @@
-package com.example.aezakmi
+package com.example.digitalsobolgroup
 
 import io.flutter.embedding.android.FlutterActivity
 

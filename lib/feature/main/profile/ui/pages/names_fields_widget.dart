@@ -1,5 +1,5 @@
-import 'package:aezakmi/feature/main/profile/ui/bloc/names_bloc/names_bloc.dart';
-import 'package:aezakmi/feature/main/profile/ui/pages/edit_names_screen.dart';
+import 'package:digitalsobolgroup/feature/main/profile/ui/bloc/names_bloc/names_bloc.dart';
+import 'package:digitalsobolgroup/feature/main/profile/ui/pages/edit_names_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

@@ -1,4 +1,4 @@
-import 'package:aezakmi/common/types/failures.dart';
+import 'package:digitalsobolgroup/common/types/failures.dart';
 import 'package:dartz/dartz.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';

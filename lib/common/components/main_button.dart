@@ -1,4 +1,4 @@
-import 'package:aezakmi/common/styles/constants_theme/colors.dart';
+import 'package:digitalsobolgroup/common/styles/constants_theme/colors.dart';
 import 'package:flutter/cupertino.dart';
 
 class MainButton extends StatelessWidget {
