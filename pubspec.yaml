@@ -1,0 +1,58 @@
+name: aezakmi
+description: "Flutter task project developed for AEZAKMI Group."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  image_picker: ^1.0.7
+  permission_handler: ^11.1.0
+  shared_preferences: ^2.2.2
+  get_it: ^7.6.6
+  flutter_bloc: ^8.1.3
+  path_provider: ^2.1.2
+  mask_text_input_formatter: ^2.7.0
+  flutter_masked_text2: ^0.9.1
+  go_router: ^13.0.1
+  flutter_form_builder: ^9.1.1
+  flutter_svg: ^2.0.9
+  pin_code_fields: ^8.0.1
+  dartz: ^0.10.1
+  equatable: ^2.0.5
+  bloc: ^8.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: SFPRO
+      fonts:
+        - asset: assets/fonts/SFPRODISPLAYBLACKITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYBOLD.OTF
+        - asset: assets/fonts/SFPRODISPLAYHEAVYITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYLIGHTITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYMEDIUM.OTF
+        - asset: assets/fonts/SFPRODISPLAYREGULAR.OTF
+        - asset: assets/fonts/SFPRODISPLAYSEMIBOLDITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYTHINITALIC.OTF
+        - asset: assets/fonts/SFPRODISPLAYULTRALIGHTITALIC.OTF
+          
+   
