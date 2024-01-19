@@ -1,18 +1,47 @@
-# digitalsobolgroup
+# Тестовое Задание для Digital Sobol Group
 
-A new Flutter project.
+## Форма регистрации (номер, смс подтверждение)
+
+## Главный экран (2 экрана с нижним навбаром):
+1. **Мои проекты:** Пока что пусто.
+2. **Мой профиль:** Фото аватара можно менять, поле имя-фамилия можно изменять.
+
+## Packages Used
+
+В этом проекте используются следующие пакеты:
+
+- `cupertino_icons: ^1.0.2`
+- `image_picker: ^1.0.7`
+- `permission_handler: ^11.1.0`
+- `shared_preferences: ^2.2.2`
+- `get_it: ^7.6.6`
+- `flutter_bloc: ^8.1.3`
+- `path_provider: ^2.1.2`
+- `mask_text_input_formatter: ^2.7.0`
+- `flutter_masked_text2: ^0.9.1`
+- `go_router: ^13.0.1`
+- `flutter_form_builder: ^9.1.1`
+- `flutter_svg: ^2.0.9`
+- `pin_code_fields: ^8.0.1`
+- `dartz: ^0.10.1`
+- `equatable: ^2.0.5`
+- `bloc: ^8.1.2`
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Чтобы начать работу с этим проектом Flutter, выполните следующие шаги:
 
-A few resources to get you started if this is your first Flutter project:
+1. Установите Flutter, следуя инструкциям в [документации Flutter](https://flutter.dev/docs/get-started/install).
+2. Клонируйте этот репозиторий на свой компьютер.
+3. Откройте проект в вашей предпочтительной IDE или редакторе.
+4. Запустите `flutter pub get`, чтобы установить зависимости проекта.
+5. Подключите устройство или запустите эмулятор.
+6. Запустите `flutter run` для сборки и запуска приложения на вашем устройстве или эмуляторе.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Architecture
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# digitalsobolgroup_task
-# digitalsobolgroup
+Этот проект следует принципам чистой архитектуры, преподаваемым Reso Coder. В нем используется BLoC (Business Logic Component) для управления состоянием и разделения приложения на различные слои:
+
+- **Presentation:** Содержит код пользовательского интерфейса, включая виджеты, страницы и блоки.
+- **Domain:** Определяет бизнес-логику и use cases приложения.
+- **Data:** Реализует источники данных, репозитории и модели, используемые приложением.
